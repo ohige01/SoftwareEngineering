@@ -7,6 +7,7 @@ public class A {
 		System.out.println("init A.java");
 		System.out.println("edit branch master");
 		System.out.println("edit branch devB");
+		System.out.println("edit branch devC");
 	}
 
 }
