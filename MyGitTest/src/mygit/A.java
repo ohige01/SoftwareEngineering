@@ -6,6 +6,7 @@ public class A {
 		// TODO Auto-generated method stub
 		System.out.println("init A.java");
 		System.out.println("edit branch master");
+		System.out.println("edit branch devB");
 	}
 
 }
